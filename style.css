@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#1a1a1a;
+}
+.main{
+    height: 41rem;
+    width: 25rem;
+    background-color: white;
+    margin: 10px 50px;
+    border-radius: 10px;
+    position: relative;
+
+}
+.section1{
+    height: 12rem ;
+}
+.logo{
+    height: 70px;
+    margin: 50px  100px;
+}
+.section2{
+    height: 20rem;
+    width: 25rem;
+    background-color: #00ccff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    position: absolute;
+}
+.section3{
+    height:11rem;
+    width: 25rem;
+    background-color: #80e5ff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top:300px;
+    position: absolute;
+}
